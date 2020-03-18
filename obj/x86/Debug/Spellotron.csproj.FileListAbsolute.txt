@@ -1,0 +1,113 @@
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\bin\Debug\Spellotron.exe
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\bin\Debug\Spellotron.pdb
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\DebugWindow.baml
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\MainWindow.baml
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\DebugWindow.g.cs
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\MainWindow.g.cs
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\App.g.cs
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\Spellotron_MarkupCompile.cache
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\Spellotron.g.resources
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\Spellotron.Properties.Resources.resources
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\Spellotron.exe
+c:\users\jj65984\documents\visual studio 2010\Projects\Spellotron\Spellotron\obj\x86\Debug\Spellotron.pdb
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.csproj.ResolveComReference.cache
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\DebugWindow.baml
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\MainWindow.baml
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\DebugWindow.g.cs
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\MainWindow.g.cs
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\App.g.cs
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron_MarkupCompile.cache
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.g.resources
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.Properties.Resources.resources
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\bin\Debug\Spellotron.exe.config
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\bin\Debug\Spellotron.exe
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\bin\Debug\Spellotron.pdb
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.exe
+C:\Users\W7F10S11\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.pdb
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\bin\Debug\Spellotron.exe.config
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\bin\Debug\Spellotron.exe
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\bin\Debug\Spellotron.pdb
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.csproj.ResolveComReference.cache
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\DebugWindow.baml
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\MainWindow.baml
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\DebugWindow.g.cs
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\App.g.cs
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron_MarkupCompile.cache
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.g.resources
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.Properties.Resources.resources
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.exe
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\Spellotron.pdb
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\WordSummaryWindow.baml
+C:\Users\jj65984\Desktop\Spellotron\Spellotron\obj\x86\Debug\WordSummaryWindow.g.cs
+E:\spellotron\Spellotron src\Spellotron\bin\Debug\Spellotron.exe.config
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Interop.SpeechLib.dll
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.csproj.ResolveComReference.cache
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.exe
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.pdb
+E:\spellotron\Spellotron src\Spellotron\bin\Debug\Spellotron.exe
+E:\spellotron\Spellotron src\Spellotron\bin\Debug\Spellotron.pdb
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\DebugWindow.baml
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\MainWindow.baml
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\WordSummaryWindow.baml
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\DebugWindow.g.cs
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\MainWindow.g.cs
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\WordSummaryWindow.g.cs
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\App.g.cs
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron_MarkupCompile.cache
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.g.resources
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.Properties.Resources.resources
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\spellotron\Spellotron src\Spellotron\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\bin\Debug\Spellotron.exe.config
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.csproj.ResolveComReference.cache
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.exe
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.pdb
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\bin\Debug\Spellotron.exe
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\bin\Debug\Spellotron.pdb
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\DebugWindow.baml
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\MainWindow.baml
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\WordSummaryWindow.baml
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\DebugWindow.g.cs
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\WordSummaryWindow.g.cs
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\App.g.cs
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron_MarkupCompile.cache
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.g.resources
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.Properties.Resources.resources
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jj65984\Desktop\nitroblast-kinectotron-2fc3c310ddf9\spellotron\Spellotron src\Spellotron\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\bin\Debug\Spellotron.exe.config
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.csproj.ResolveComReference.cache
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.exe
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.pdb
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\DebugWindow.baml
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\MainWindow.baml
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\WordSummaryWindow.baml
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\DebugWindow.g.cs
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\WordSummaryWindow.g.cs
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\App.g.cs
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\Spellotron_MarkupCompile.cache
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.g.resources
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.Properties.Resources.resources
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\Spellotron.csproj.GenerateResource.Cache
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\bin\Debug\Spellotron.exe
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\bin\Debug\Spellotron.pdb
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\LevelSelect.baml
+C:\Users\Clint\Desktop\Spellotron src\Spellotron\obj\x86\Debug\LevelSelect.g.cs
